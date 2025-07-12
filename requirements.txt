@@ -1,0 +1,10 @@
+requests
+pydantic
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+langchain-huggingface
+pandas
+pika

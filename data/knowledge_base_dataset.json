@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Salary not received",
+    "text": "Contact payroll department to verify payment processing. Ensure your bank details are up-to-date.",
+    "url": "https://kb.company.com/hr/ad04e3eb-19d7-42ca-a4ca-e246682a6a3f"
+  },
+  {
+    "title": "Need to register sick leave",
+    "text": "Log into the HR portal and go to the Sick Leave section to register your leave. Contact HR if access fails.",
+    "url": "https://kb.company.com/hr/bc2c74e7-81fe-42f4-b3af-e48157ea49e3"
+  },
+  {
+    "title": "Cannot access HR portal",
+    "text": "Ensure you're using your corporate credentials. If the problem persists, contact IT support.",
+    "url": "https://kb.company.com/hr/227b0477-6f21-41e8-b5f0-a741359efccc"
+  },
+  {
+    "title": "Incorrect tax deduction",
+    "text": "Review your latest payslip and contact HR with supporting documents to resolve discrepancies.",
+    "url": "https://kb.company.com/hr/424ceee9-b41a-4d64-977e-20161b4bc8c4"
+  },
+  {
+    "title": "No access to payslip",
+    "text": "Payslips are available on the HR portal. Contact HR if yours is missing or inaccessible.",
+    "url": "https://kb.company.com/hr/cb9846cc-3534-4d49-98ce-aa4e268d8d29"
+  },
+  {
+    "title": "Benefits information missing",
+    "text": "Benefits information is updated quarterly. Contact HR for the latest documents or visit the benefits section.",
+    "url": "https://kb.company.com/hr/1d2bb82e-6862-4785-90b2-bdfe2c4806aa"
+  },
+  {
+    "title": "Issue with time tracking",
+    "text": "Ensure you\u2019ve clocked in using the company system. Contact your manager to resolve missed punches.",
+    "url": "https://kb.company.com/hr/aba8ae2b-4323-4e7b-ba37-0d768e89db49"
+  },
+  {
+    "title": "Annual leave not showing",
+    "text": "Check your remaining leave balance. Contact your manager or HR if it's not reflecting properly.",
+    "url": "https://kb.company.com/hr/756cefcf-b056-4a45-8e79-9a14a21bd56d"
+  },
+  {
+    "title": "Cannot submit expense report",
+    "text": "Ensure all receipts are attached. Check if you're using the correct expense category and resubmit.",
+    "url": "https://kb.company.com/hr/e6884367-8e4b-4df1-85e1-afd7035439a0"
+  },
+  {
+    "title": "System says I'm not clocked in",
+    "text": "Try clocking out and back in again. If issue persists, contact time tracking system support.",
+    "url": "https://kb.company.com/hr/5a9c414f-d846-4dd8-8031-d5c8e574c94c"
+  },
+  {
+    "title": "Change bank account for salary",
+    "text": "Submit a request in the HR system to update your bank information. Approval may take up to 3 days.",
+    "url": "https://kb.company.com/hr/3ff52b79-5118-4c85-80d6-917fbb75c8b9"
+  },
+  {
+    "title": "Update emergency contact",
+    "text": "Navigate to your HR profile and use the Edit function to update emergency contacts.",
+    "url": "https://kb.company.com/hr/c25412c2-09d8-48d3-b060-18695ff6d50a"
+  },
+  {
+    "title": "Need employment certificate",
+    "text": "Request an employment certificate through the HR portal or submit a formal request to HR.",
+    "url": "https://kb.company.com/hr/7ea700e9-5d49-44ca-82ef-0aa28ff0863f"
+  },
+  {
+    "title": "Onboarding documents not accessible",
+    "text": "Ensure your onboarding checklist is complete. Contact onboarding support for access issues.",
+    "url": "https://kb.company.com/hr/52f5008a-3b84-441f-8666-835d5d1616ea"
+  },
+  {
+    "title": "Colleague details are incorrect",
+    "text": "Use the HR portal to report incorrect details. HR will review and update after verification.",
+    "url": "https://kb.company.com/hr/e4918555-54d6-4e8c-bff5-e1da513eb6cc"
+  },
+  {
+    "title": "Manager approval pending",
+    "text": "Wait for the manager to approve the request. You can send a reminder via the portal.",
+    "url": "https://kb.company.com/hr/fc9a0d3e-5b5d-446b-b600-08edd04dd8bd"
+  },
+  {
+    "title": "Can't request time off",
+    "text": "Verify your eligibility for time off. If issue persists, raise a ticket to HR support.",
+    "url": "https://kb.company.com/hr/b7631889-960a-4beb-bb0c-5167787ab0e1"
+  },
+  {
+    "title": "Wrong job title in system",
+    "text": "Raise a correction request via the Job Info section in the HR portal.",
+    "url": "https://kb.company.com/hr/dc1fd8a5-2d74-40cb-9895-307d54bc49c4"
+  },
+  {
+    "title": "Performance review missing",
+    "text": "Performance reviews are uploaded by managers. Check with them for any delays.",
+    "url": "https://kb.company.com/hr/460fc90d-94e5-4e8a-bc3b-00e84aa9010a"
+  },
+  {
+    "title": "Promotion not reflected",
+    "text": "Contact HR to update your employee record with the latest promotion details.",
+    "url": "https://kb.company.com/hr/123f2f7c-bac6-4070-990f-c876f0b992eb"
+  },
+  {
+    "title": "Salary not received",
+    "text": "Contact payroll department to verify payment processing. Ensure your bank details are up-to-date.",
+    "url": "https://kb.company.com/hr/0232856e-5bd9-4b1a-9aa8-6784c2086d48"
+  },
+  {
+    "title": "Need to register sick leave",
+    "text": "Log into the HR portal and go to the Sick Leave section to register your leave. Contact HR if access fails.",
+    "url": "https://kb.company.com/hr/429801a2-95b3-4c57-9a1e-825c307dd867"
+  },
+  {
+    "title": "Cannot access HR portal",
+    "text": "Ensure you're using your corporate credentials. If the problem persists, contact IT support.",
+    "url": "https://kb.company.com/hr/ac5c334f-de3d-4c15-91cd-44b6cbb4ee68"
+  },
+  {
+    "title": "Incorrect tax deduction",
+    "text": "Review your latest payslip and contact HR with supporting documents to resolve discrepancies.",
+    "url": "https://kb.company.com/hr/efaa884f-fb8b-4a61-b019-4972045299d4"
+  },
+  {
+    "title": "Benefits information missing",
+    "text": "Benefits information is updated quarterly. Contact HR for the latest documents or visit the benefits section.",
+    "url": "https://kb.company.com/hr/97c0ffcf-fe0c-49e4-b924-cc9fe85cc2f4"
+  },
+  {
+    "title": "Issue with time tracking",
+    "text": "Ensure you\u2019ve clocked in using the company system. Contact your manager to resolve missed punches.",
+    "url": "https://kb.company.com/hr/b035a8eb-142c-42df-9418-b328ba3aac1e"
+  },
+  {
+    "title": "Annual leave not showing",
+    "text": "Check your remaining leave balance. Contact your manager or HR if it's not reflecting properly.",
+    "url": "https://kb.company.com/hr/e4d1c783-4070-47d2-acca-9cadd987ccb2"
+  },
+  {
+    "title": "Cannot submit expense report",
+    "text": "Ensure all receipts are attached. Check if you're using the correct expense category and resubmit.",
+    "url": "https://kb.company.com/hr/b7b557c5-bf82-4b2b-a345-a0ef16875702"
+  },
+  {
+    "title": "System says I'm not clocked in",
+    "text": "Try clocking out and back in again. If issue persists, contact time tracking system support.",
+    "url": "https://kb.company.com/hr/c470729c-3ace-4d3f-a1b4-21e171d8da5d"
+  },
+  {
+    "title": "Change bank account for salary",
+    "text": "Submit a request in the HR system to update your bank information. Approval may take up to 3 days.",
+    "url": "https://kb.company.com/hr/6ba5f865-493e-4673-9bb6-c645798c1703"
+  },
+  {
+    "title": "Update emergency contact",
+    "text": "Navigate to your HR profile and use the Edit function to update emergency contacts.",
+    "url": "https://kb.company.com/hr/a973d725-9bf2-4394-827e-fd1c69fd25a8"
+  },
+  {
+    "title": "Need employment certificate",
+    "text": "Request an employment certificate through the HR portal or submit a formal request to HR.",
+    "url": "https://kb.company.com/hr/33172378-41c6-471e-a046-e42514d7ce29"
+  },
+  {
+    "title": "Onboarding documents not accessible",
+    "text": "Ensure your onboarding checklist is complete. Contact onboarding support for access issues.",
+    "url": "https://kb.company.com/hr/38b4432e-15cf-424d-bbda-1b7e4c916a2c"
+  },
+  {
+    "title": "Colleague details are incorrect",
+    "text": "Use the HR portal to report incorrect details. HR will review and update after verification.",
+    "url": "https://kb.company.com/hr/1ed7c4bf-d9da-46b1-baa4-d156c05a8459"
+  },
+  {
+    "title": "Manager approval pending",
+    "text": "Wait for the manager to approve the request. You can send a reminder via the portal.",
+    "url": "https://kb.company.com/hr/403cf239-2c6b-4848-b672-4864788b1f6c"
+  },
+  {
+    "title": "Can't request time off",
+    "text": "Verify your eligibility for time off. If issue persists, raise a ticket to HR support.",
+    "url": "https://kb.company.com/hr/5e0a7604-256d-4523-ac7e-b9bf37fd49bf"
+  },
+  {
+    "title": "Wrong job title in system",
+    "text": "Raise a correction request via the Job Info section in the HR portal.",
+    "url": "https://kb.company.com/hr/57594a11-be66-4cf8-8e41-ea71fd9f6fc4"
+  },
+  {
+    "title": "Performance review missing",
+    "text": "Performance reviews are uploaded by managers. Check with them for any delays.",
+    "url": "https://kb.company.com/hr/42e00b6f-8133-4a34-8d21-55c68911cdfb"
+  },
+  {
+    "title": "Promotion not reflected",
+    "text": "Contact HR to update your employee record with the latest promotion details.",
+    "url": "https://kb.company.com/hr/f6541ce6-5b36-495f-979e-dbd27aba0a9e"
+  },
+  {
+    "title": "Salary not received",
+    "text": "Contact payroll department to verify payment processing. Ensure your bank details are up-to-date.",
+    "url": "https://kb.company.com/hr/3d070eb9-7465-4d0c-b60c-c56ebd3e66b1"
+  },
+  {
+    "title": "Need to register sick leave",
+    "text": "Log into the HR portal and go to the Sick Leave section to register your leave. Contact HR if access fails.",
+    "url": "https://kb.company.com/hr/6756761c-ef68-4889-b1df-2d5c666c23f9"
+  },
+  {
+    "title": "Cannot access HR portal",
+    "text": "Ensure you're using your corporate credentials. If the problem persists, contact IT support.",
+    "url": "https://kb.company.com/hr/0c49b24c-130c-4018-a402-302f3a12542a"
+  },
+  {
+    "title": "Incorrect tax deduction",
+    "text": "Review your latest payslip and contact HR with supporting documents to resolve discrepancies.",
+    "url": "https://kb.company.com/hr/71b061fc-bf04-4aa8-95e9-97fff0a24666"
+  },
+  {
+    "title": "Missing Salary",
+    "text": "If you haven't received your salary, please contact the accounting department..",
+    "url": "https://kb.company.com/hr/a325d95a-0076-4f06-9f33-6fba24436935"
+  },
+  {
+    "title": "Benefits information missing",
+    "text": "Benefits information is updated quarterly. Contact HR for the latest documents or visit the benefits section.",
+    "url": "https://kb.company.com/hr/f48d9736-d629-4b4e-9cd8-61fae66a7ab0"
+  },
+  {
+    "title": "Issue with time tracking",
+    "text": "Ensure you\u2019ve clocked in using the company system. Contact your manager to resolve missed punches.",
+    "url": "https://kb.company.com/hr/b2204096-3c7f-4691-bd70-8942145c9b9a"
+  },
+  {
+    "title": "Annual leave not showing",
+    "text": "Check your remaining leave balance. Contact your manager or HR if it's not reflecting properly.",
+    "url": "https://kb.company.com/hr/2d2edcfb-9256-454a-944d-e509c8138b73"
+  },
+  {
+    "title": "Cannot submit expense report",
+    "text": "Ensure all receipts are attached. Check if you're using the correct expense category and resubmit.",
+    "url": "https://kb.company.com/hr/c65da9e7-6f8b-4e3f-bf18-e139aaea4a1d"
+  },
+  {
+    "title": "System says I'm not clocked in",
+    "text": "Try clocking out and back in again. If issue persists, contact time tracking system support.",
+    "url": "https://kb.company.com/hr/ec9b4da0-537a-4022-8e00-875ea0e06c1e"
+  },
+  {
+    "title": "VPN not working",
+    "text": "Restart the VPN client and ensure your credentials are correct.",
+    "url": "https://kb.company.com/it/ae2bf690-af96-482f-a561-8e53910a613f"
+  },
+  {
+    "title": "Cannot access internal application",
+    "text": "Check your network connection and confirm app permissions.",
+    "url": "https://kb.company.com/it/66c9d6cf-5308-47a8-b175-0fa40dc1155b"
+  },
+  {
+    "title": "Email not syncing",
+    "text": "Ensure you are connected to the internet and sync settings are enabled.",
+    "url": "https://kb.company.com/it/904194d0-59df-4d8d-af16-168cba00a401"
+  },
+  {
+    "title": "Slow internet connection",
+    "text": "Try restarting the router or contacting your ISP.",
+    "url": "https://kb.company.com/it/220c2f4c-de75-4df3-a5e0-d7bbde39a21c"
+  },
+  {
+    "title": "Computer won't start",
+    "text": "Check the power supply and try a hard reset.",
+    "url": "https://kb.company.com/it/82ab85b5-7a43-4645-8eda-0ab67aa8dec0"
+  },
+  {
+    "title": "Printer not responding",
+    "text": "Restart the printer and ensure it is connected properly.",
+    "url": "https://kb.company.com/it/b4ab5e86-591e-4ae0-a97c-f02cd6e50a5c"
+  },
+  {
+    "title": "Forgotten password",
+    "text": "Use the password reset tool or contact IT support.",
+    "url": "https://kb.company.com/it/22c972d4-98b1-486f-8069-eaa60d2511b1"
+  },
+  {
+    "title": "Blue screen error",
+    "text": "Note the error code and contact support with the details.",
+    "url": "https://kb.company.com/it/0b5b9cab-cedc-45b4-9ab1-fed189b95625"
+  },
+  {
+    "title": "Software installation failure",
+    "text": "Verify system requirements and retry the installation.",
+    "url": "https://kb.company.com/it/d17f5732-d1f7-4b1e-8c1b-f0d87d9629bf"
+  },
+  {
+    "title": "Cannot connect to Wi-Fi",
+    "text": "Make sure the Wi-Fi is enabled and try reconnecting.",
+    "url": "https://kb.company.com/it/4f5aadb8-b407-4895-9460-d9c4dd0e930e"
+  },
+  {
+    "title": "Video conferencing issues",
+    "text": "Check camera and microphone permissions in your browser.",
+    "url": "https://kb.company.com/it/6b96711d-54dd-423c-b7a8-c07fbdd1ba5d"
+  },
+  {
+    "title": "USB device not recognized",
+    "text": "Try a different port and update USB drivers.",
+    "url": "https://kb.company.com/it/022e9a74-ac33-4f30-b938-84bbec4c264b"
+  },
+  {
+    "title": "Screen flickering",
+    "text": "Update the display driver and reduce screen resolution.",
+    "url": "https://kb.company.com/it/3517d7d1-64ee-48c1-ba2f-93d4bc6cb41b"
+  },
+  {
+    "title": "Keyboard not working",
+    "text": "Check cable connection or try another USB port.",
+    "url": "https://kb.company.com/it/355e4b65-640a-4a34-8bea-ba3eb8b2d5f1"
+  },
+  {
+    "title": "Mouse lagging",
+    "text": "Update mouse drivers or try another surface.",
+    "url": "https://kb.company.com/it/fc1d5fd8-2a61-4344-b831-75ee88996abc"
+  },
+  {
+    "title": "Battery draining fast",
+    "text": "Close background apps and adjust power settings.",
+    "url": "https://kb.company.com/it/0b740c5a-cc8a-4989-bc06-bb7e39ea9058"
+  },
+  {
+    "title": "Sound not working",
+    "text": "Check the audio output device and update sound drivers.",
+    "url": "https://kb.company.com/it/9941ffb7-0489-41d0-b46d-a96d7543c630"
+  },
+  {
+    "title": "Camera not detected",
+    "text": "Make sure camera is not blocked and update drivers.",
+    "url": "https://kb.company.com/it/0879887f-7962-4c74-9b2e-6a028cc318d2"
+  },
+  {
+    "title": "System update failed",
+    "text": "Free up disk space and retry the update.",
+    "url": "https://kb.company.com/it/2a965852-a763-472e-8fee-90bb75dbc019"
+  },
+  {
+    "title": "Browser not opening",
+    "text": "Clear browser cache or reinstall the browser.",
+    "url": "https://kb.company.com/it/64ea7ad9-22b6-4393-a657-53ec78a7e471"
+  },
+  {
+    "title": "VPN not working",
+    "text": "Restart the VPN client and ensure your credentials are correct.",
+    "url": "https://kb.company.com/it/de594d26-60fd-47ee-9ab6-833e2298bbf2"
+  },
+  {
+    "title": "Cannot access internal application",
+    "text": "Check your network connection and confirm app permissions.",
+    "url": "https://kb.company.com/it/6cec001c-1c67-4020-9f3c-8076c8dc29b7"
+  },
+  {
+    "title": "Email not syncing",
+    "text": "Ensure you are connected to the internet and sync settings are enabled.",
+    "url": "https://kb.company.com/it/ca75b3b8-6d13-48dd-b0bb-eb26dadf1645"
+  },
+  {
+    "title": "Slow internet connection",
+    "text": "Try restarting the router or contacting your ISP.",
+    "url": "https://kb.company.com/it/701ebe71-f827-45f9-90aa-d21c2f295491"
+  },
+  {
+    "title": "Computer won't start",
+    "text": "Check the power supply and try a hard reset.",
+    "url": "https://kb.company.com/it/ea3435e9-5e70-4229-9bb1-9548e580ca5b"
+  },
+  {
+    "title": "Printer not responding",
+    "text": "Restart the printer and ensure it is connected properly.",
+    "url": "https://kb.company.com/it/1bfcfc80-a6c7-483a-b8a1-3f3a2fde4e46"
+  },
+  {
+    "title": "Forgotten password",
+    "text": "Use the password reset tool or contact IT support.",
+    "url": "https://kb.company.com/it/2c630df3-0538-4e30-99cf-26d0759731bf"
+  },
+  {
+    "title": "Blue screen error",
+    "text": "Note the error code and contact support with the details.",
+    "url": "https://kb.company.com/it/1d869b3a-3fab-4de5-971d-e76381d3b341"
+  },
+  {
+    "title": "Software installation failure",
+    "text": "Verify system requirements and retry the installation.",
+    "url": "https://kb.company.com/it/aefe70e8-996f-4f5b-bb0a-4b64f400d948"
+  },
+  {
+    "title": "Cannot connect to Wi-Fi",
+    "text": "Make sure the Wi-Fi is enabled and try reconnecting.",
+    "url": "https://kb.company.com/it/9b096a50-52d2-4e94-a41f-f6353c13e14d"
+  },
+  {
+    "title": "Video conferencing issues",
+    "text": "Check camera and microphone permissions in your browser.",
+    "url": "https://kb.company.com/it/226a8401-cde0-4f38-b9a5-063191d479a6"
+  },
+  {
+    "title": "USB device not recognized",
+    "text": "Try a different port and update USB drivers.",
+    "url": "https://kb.company.com/it/4018ed6b-d3e0-42dc-bb94-48901cea2ab4"
+  },
+  {
+    "title": "Screen flickering",
+    "text": "Update the display driver and reduce screen resolution.",
+    "url": "https://kb.company.com/it/efcd5b16-12bd-4cca-a2ae-565609a7734a"
+  },
+  {
+    "title": "Keyboard not working",
+    "text": "Check cable connection or try another USB port.",
+    "url": "https://kb.company.com/it/cef49588-2338-4637-8d14-d6f6a0d2f1b2"
+  },
+  {
+    "title": "Mouse lagging",
+    "text": "Update mouse drivers or try another surface.",
+    "url": "https://kb.company.com/it/05f20e1d-6fbd-439f-9639-51cacd703d54"
+  },
+  {
+    "title": "Battery draining fast",
+    "text": "Close background apps and adjust power settings.",
+    "url": "https://kb.company.com/it/3bf46f3f-0eec-4f99-aa16-781322bc8931"
+  },
+  {
+    "title": "Sound not working",
+    "text": "Check the audio output device and update sound drivers.",
+    "url": "https://kb.company.com/it/178f24f6-50ad-47b4-a617-640cb7c15541"
+  },
+  {
+    "title": "Camera not detected",
+    "text": "Make sure camera is not blocked and update drivers.",
+    "url": "https://kb.company.com/it/57c53498-f883-4adb-8f70-37874b9e4db9"
+  },
+  {
+    "title": "System update failed",
+    "text": "Free up disk space and retry the update.",
+    "url": "https://kb.company.com/it/334ec84d-5789-4089-97ac-a98ff4181eb7"
+  },
+  {
+    "title": "Browser not opening",
+    "text": "Clear browser cache or reinstall the browser.",
+    "url": "https://kb.company.com/it/b7be7b9b-4507-4a46-950f-bb7714d0445d"
+  },
+  {
+    "title": "VPN not working",
+    "text": "Restart the VPN client and ensure your credentials are correct.",
+    "url": "https://kb.company.com/it/dc7fedc8-421a-45a5-adae-485dc5d2e685"
+  },
+  {
+    "title": "Cannot access internal application",
+    "text": "Check your network connection and confirm app permissions.",
+    "url": "https://kb.company.com/it/0ed48e1a-4851-4cf7-a21c-3e83623b38b0"
+  },
+  {
+    "title": "Email not syncing",
+    "text": "Ensure you are connected to the internet and sync settings are enabled.",
+    "url": "https://kb.company.com/it/7b86d67d-bf25-44e1-b226-3f0842b7723e"
+  },
+  {
+    "title": "Slow internet connection",
+    "text": "Try restarting the router or contacting your ISP.",
+    "url": "https://kb.company.com/it/d1081995-6991-4742-a8da-17393cc9cb9d"
+  },
+  {
+    "title": "Computer won't start",
+    "text": "Check the power supply and try a hard reset.",
+    "url": "https://kb.company.com/it/8da1c0e9-9bb6-41ff-8e0a-c38a6b2c23ca"
+  },
+  {
+    "title": "Printer not responding",
+    "text": "Restart the printer and ensure it is connected properly.",
+    "url": "https://kb.company.com/it/8402240e-e057-45aa-83ae-5775666fb0e4"
+  },
+  {
+    "title": "Forgotten password",
+    "text": "Use the password reset tool or contact IT support.",
+    "url": "https://kb.company.com/it/1951af45-62d3-4968-83a4-82d89e1e15ee"
+  },
+  {
+    "title": "Blue screen error",
+    "text": "Note the error code and contact support with the details.",
+    "url": "https://kb.company.com/it/3c2b3c9f-8160-432a-9d9f-d8ada1ae3c5b"
+  },
+  {
+    "title": "Software installation failure",
+    "text": "Verify system requirements and retry the installation.",
+    "url": "https://kb.company.com/it/568ab926-4991-4f6e-9834-3906a1ed8290"
+  },
+  {
+    "title": "Cannot connect to Wi-Fi",
+    "text": "Make sure the Wi-Fi is enabled and try reconnecting.",
+    "url": "https://kb.company.com/it/0f1b870e-6998-4431-a8d5-58690c0e1698"
+  }
+]
