@@ -1,602 +1,207 @@
 [
   {
     "problem": "Salary not received",
-    "category": "hr",
+    "category": "Payroll",
+    "department": "HR"
+  },
+  {
+    "problem": "Need to register sick leave",
+    "category": "Leave",
+    "department": "HR"
+  },
+  {
+    "problem": "Cannot access HR portal",
+    "category": "Access",
+    "department": "HR"
+  },
+  {
+    "problem": "Incorrect tax deduction",
+    "category": "Payroll",
+    "department": "HR"
+  },
+  {
+    "problem": "No access to payslip",
+    "category": "Payroll",
+    "department": "HR"
+  },
+  {
+    "problem": "Benefits information missing",
+    "category": "Benefits",
+    "department": "HR"
+  },
+  {
+    "problem": "Issue with time tracking",
+    "category": "Attendance",
+    "department": "HR"
+  },
+  {
+    "problem": "Annual leave not showing",
+    "category": "Leave",
+    "department": "HR"
+  },
+  {
+    "problem": "Cannot submit expense report",
+    "category": "Expenses",
+    "department": "HR"
+  },
+  {
+    "problem": "System says I'm not clocked in",
+    "category": "Attendance",
+    "department": "HR"
+  },
+  {
+    "problem": "Change bank account for salary",
+    "category": "Payroll",
+    "department": "HR"
+  },
+  {
+    "problem": "Update emergency contact",
+    "category": "Personal Information",
+    "department": "HR"
+  },
+  {
+    "problem": "Need employment certificate",
+    "category": "Documents",
+    "department": "HR"
+  },
+  {
+    "problem": "Onboarding documents not accessible",
+    "category": "Onboarding",
+    "department": "HR"
+  },
+  {
+    "problem": "Colleague details are incorrect",
+    "category": "Personal Information",
+    "department": "HR"
+  },
+  {
+    "problem": "Manager approval pending",
+    "category": "Approvals",
+    "department": "HR"
+  },
+  {
+    "problem": "Can't request time off",
+    "category": "Leave",
+    "department": "HR"
+  },
+  {
+    "problem": "Wrong job title in system",
+    "category": "Personal Information",
+    "department": "HR"
+  },
+  {
+    "problem": "Performance review missing",
+    "category": "Performance",
+    "department": "HR"
+  },
+  {
+    "problem": "Promotion not reflected",
+    "category": "Personal Information",
+    "department": "HR"
+  },
+  {
+    "problem": "Missing Salary",
+    "category": "Payroll",
     "department": "HR"
   },
   {
     "problem": "VPN not working",
-    "category": "it",
+    "category": "Network",
     "department": "IT"
   },
   {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
+    "problem": "Cannot access internal application",
+    "category": "Access",
+    "department": "IT"
   },
   {
     "problem": "Email not syncing",
-    "category": "it",
+    "category": "Email",
     "department": "IT"
   },
   {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
+    "problem": "Slow internet connection",
+    "category": "Network",
+    "department": "IT"
+  },
+  {
+    "problem": "Computer won't start",
+    "category": "Hardware",
+    "department": "IT"
   },
   {
     "problem": "Printer not responding",
-    "category": "it",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
+    "problem": "Forgotten password",
+    "category": "Access",
     "department": "IT"
   },
   {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
+    "problem": "Blue screen error",
+    "category": "System",
     "department": "IT"
   },
   {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
+    "problem": "Software installation failure",
+    "category": "Software",
     "department": "IT"
   },
   {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
+    "problem": "Cannot connect to Wi-Fi",
+    "category": "Network",
     "department": "IT"
   },
   {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
+    "problem": "Video conferencing issues",
+    "category": "Software",
     "department": "IT"
   },
   {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
+    "problem": "USB device not recognized",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
+    "problem": "Screen flickering",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
+    "problem": "Keyboard not working",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
+    "problem": "Mouse lagging",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
+    "problem": "Battery draining fast",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
+    "problem": "Sound not working",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
+    "problem": "Camera not detected",
+    "category": "Hardware",
     "department": "IT"
   },
   {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
+    "problem": "System update failed",
+    "category": "System",
     "department": "IT"
   },
   {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Salary not received",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "VPN not working",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Cannot access HR portal",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Email not syncing",
-    "category": "it",
-    "department": "IT"
-  },
-  {
-    "problem": "Need to register sick leave",
-    "category": "hr",
-    "department": "HR"
-  },
-  {
-    "problem": "Printer not responding",
-    "category": "it",
+    "problem": "Browser not opening",
+    "category": "Software",
     "department": "IT"
   }
 ]
