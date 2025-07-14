@@ -1,9 +1,9 @@
-from orchestrator.dtos import Problem
 from llm.localai import LocalAIClient
+from orchestrator.dtos import Problem
 
 
 class LlmService:
-    def __init__(self, model_name: str, base_url:str):
+    def __init__(self, model_name: str, base_url: str):
         self.localai_client = LocalAIClient(base_url=base_url, model=model_name)
 
     def extract_problem_and_category(self, text: str) -> Problem:

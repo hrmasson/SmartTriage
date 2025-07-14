@@ -2,6 +2,8 @@ from dotenv import load_dotenv
 from pydantic_settings import BaseSettings
 
 load_dotenv()
+
+
 class Settings(BaseSettings):
     LOCALAI_BASE_URL: str = "http://localhost"
     LOCALAI_PORT: int = 8083
@@ -17,10 +19,9 @@ class Settings(BaseSettings):
 
     RABBITMQ_HOST: str = "localhost"
     RABBITMQ_USER: str = "rabbitmq"
-    RABBITMQ_PASS: str =  "rabbitmq"
+    RABBITMQ_PASS: str = "rabbitmq"
     RABBIT_INPUT_QUEUE: str = "input_queue"
     RABBIT_OUTPUT_QUEUE: str = "output_queue"
-
 
 
 settings = Settings()
